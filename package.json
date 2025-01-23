@@ -1,0 +1,24 @@
+{
+  "name": "teditester",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "axios": "^1.7.7",
+    "discord.js": "^14.16.3",
+    "dotenv": "^16.4.5",
+    "form-data": "^4.0.1",
+    "pdfkit": "^0.15.1",
+    "puppeteer": "^23.9.0",
+    "qrcode-terminal": "^0.12.0",
+    "screenshot-desktop": "^1.15.0",
+    "sharp": "^0.33.5",
+    "whatsapp-web.js": "^1.26.0"
+  }
+}
